@@ -1,0 +1,7 @@
+cv2
+time
+sqlite3
+pygame
+os
+mediapipe 
+numpy
