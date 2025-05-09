@@ -21,17 +21,5 @@ DSMS_PRO is an AI-based Driver Safety Monitoring System that uses computer visio
 
 ## PROJECT STRUCTURE
 
-DSMS_PRO/
-├── main.py
-├── database/
-│   └── Monitoring.py
-├── utils/
-│   ├── alert_system.py
-│   ├── Distraction_Detection.py
-│   └── Drowsiness_Detection.py
-│   └── Emotion_Recognition.py
-│   └── Face_Detection.py
-│   └── Gaze_Estimation.py
-├── requirements.txt
-└── README.md
+<pre> DSMS_PRO/ ├── main.py ├── database/ │ └── Monitoring.py ├── utils/ │ ├── alert_system.py │ ├── Distraction_Detection.py │ ├── Drowsiness_Detection.py │ ├── Emotion_Recognition.py │ ├── Face_Detection.py │ └── Gaze_Estimation.py ├── requirements.txt └── README.md </pre>
 
