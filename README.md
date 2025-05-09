@@ -19,7 +19,8 @@ DSMS_PRO is an AI-based Driver Safety Monitoring System that uses computer visio
 - Pygame
 - SQLite3
 
-PROJECT STRUCTURE
+## PROJECT STRUCTURE
+
 DSMS_PRO/
 ├── main.py
 ├── database/
